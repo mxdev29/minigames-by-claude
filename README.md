@@ -1,2 +1,4 @@
 # Minigames v1.0.0
-# Games are snake, breakout, memory, reaction test, tic tac toe
+#### Changelog :
+     v1.1.0 : Added 4 new games (minesweeper, flappy bird, tetris, blackjack)
+     v2.1.0 : Rebuilt the UI and added new functions (achievements, skins, local storage for game file)
